@@ -18,3 +18,4 @@ Pull Requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 MIT
 
+![](https://github.com/KaanSuner/kodluyoruzilkrepo/blob/810bf577763b90671062ec3ad4d66ebec27d43bd/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-02-05%20191702.png)
