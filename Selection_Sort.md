@@ -11,4 +11,4 @@ Average Case
 3. [2,3,4,7,5,8,9,15,6] 
 4. [2,3,4,5,7,8,9,15,6] 
 
-[patika.dev Profile](https://app.patika.dev/snrkaan)
+[patika.dev](https://app.patika.dev/snrkaan)
